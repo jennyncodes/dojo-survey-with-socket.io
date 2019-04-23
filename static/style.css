@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image:url("https://www.publicdomainpictures.net/pictures/50000/nahled/nature-background-31.jpg");
+    background-size: cover;
+}
+
+#survey p{
+    font: 100 30pt "Helvetica Neue", sans-serif;
+}
+
+
+#survey{
+    margin: auto;
+    text-align: center;
+    width: 400px;
+    margin-top: 200px;
+    padding: 20px;
+    border: 1px solid #494949;
+    border-radius: 10px;
+    color:lightblue;
+    background-color: black;
+}
+#form, .info{
+    font: 100 18pt "Helvetica Neue", sans-serif;
+    text-align: left;
+    margin-top: 10px;
+    word-wrap: break-word;
+}
+.submit{
+    margin-left: 240px;
+}
+
+.right{
+    font: 100 13pt "Helvetica Neue", sans-serif;
+}
+
+#message{
+    margin:auto;
+    text-align: center;
+    background-color: #494949;
+    border: 1px solid black;
+    color: white;
+    font-size: 20pt;
+    width: 600px;
+}
+#number{
+    margin:auto;
+    text-align: center;
+    background-color: #494949;
+    border: 1px solid black;
+    color:white;
+    font-size: 20pt;
+    width: 600px;
+}
